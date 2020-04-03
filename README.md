@@ -2,18 +2,10 @@
 Sorting Algorithm
 
 # What it does
-Quoted from: (https://en.wikipedia.org/wiki/Bubble_sort)
-
-Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted. The algorithm, which is a comparison sort, is named for the way smaller or larger elements "bubble" to the top of the list.
-
-This simple algorithm performs poorly in real world use and is used primarily as an educational tool. More efficient algorithms such as timsort, or merge sort are used by the sorting libraries built into popular programming languages such as Python and Java.
+It has two methods: #bubble_sort and #bubble_sort_by. The method #bubble_sort takes an array and returns a sorted array while the method #bubble_sort_by sorts an array by accepting a block with two arguments and uses yield to accomplish it's purpose.
 
 ## Built With
 - Ruby 2.6.5
-
-## Live Demo
-
-[Live Demo](https://repl.it/)
 
 ## Getting Started
 
@@ -40,6 +32,20 @@ Contributions, issues and feature requests are welcome! Start by:
 
 Feel free to check the [issues page](https://github.com/DennisOsido/Bubble-Sort/issues).
 
+## Authors
+
+👤 **Dennis Osido**
+
+- Github: [@DennisOsido](https://github.com/DennisOsido)
+- Twitter: [@DennisOsido](https://twitter.com/DennisOsido) 
+- Linkedin: [Dennis Osido](https://www.linkedin.com/in/dennis-osido-2776ba19b/)
+
+👤 **Ritta Buyaki**
+
+- Github: [@Buyaki01](https://github.com/Buyaki01)
+- Twitter: [@BuyakiRitta](https://twitter.com/BuyakiRitta)
+- Linkedin: [Ritta Buyaki](https://www.linkedin.com/in/ritta-buyaki-b12904128/)
+
 ## Attributions and Credit
 - Microverse curriculum and The Odin Project for the project guidelines.
 
@@ -48,9 +54,5 @@ Feel free to check the [issues page](https://github.com/DennisOsido/Bubble-Sort/
 Give a ⭐️ if you like this project!
 
 ## 📝 Copyright
-
-This project is created by the efforts of:
-- https://github.com/DennisOsido
-- 
 
 ### Enjoy!
